@@ -1,10 +1,12 @@
-#🧮 Ruffini Polynomial Solver
+# 🧮 Ruffini Polynomial Solver
 
 Una aplicación de escritorio robusta desarrollada en C# y Windows Forms diseñada para encontrar raíces reales en polinomios de hasta quinto grado. 
 
 El sistema emplea una arquitectura multicapa para separar la lógica de validación, los cálculos algebraicos y la interfaz de usuario.
 
-##🚀 CaracterísticasResolución de Polinomios:
+## 🚀 Características 
+
+Resolución de Polinomios:
 
 Calcula raíces para expresiones algebraicas de grado 1 hasta grado 5.
 
@@ -18,7 +20,7 @@ Validación Inteligente: Sistema de detección de errores en tiempo real para as
 
 Arquitectura Limpia: Separación de responsabilidades en tres capas (CapaDiseño, CapaNegocio, CapaCalculos).
 
-##🛠️ Detalles Técnicos
+## 🛠️ Detalles Técnicos
 
 Arquitectura de Capas
 
